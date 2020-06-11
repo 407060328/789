@@ -1,0 +1,59 @@
+<meta charset= utf-8>
+
+<div class="row">
+<div class="col-md-4 text-center">
+<div class="card"><div class="card-body">
+<img src="https://yt3.ggpht.com/a/AATXAJxU-ru6EeuW1ptCKn0vGu_WuiLSaShVrIY_tg=s100-c-k-c0xffffffff-no-rj-mo" class="rounded-circle" style="width:10em;height:10em">
+<br></br>
+<h3>進擊的張許</h3>
+<br>
+<p>INSTAGRAM : <br>
+Wayne_challenge</p>
+<br>
+<div class="btn btn-primary w-100"><a href="https://www.youtube.com/channel/UCzFWzNo6ZdCCOPKKEgZt-4g">現在就看看</a>
+</div></div></div></div>
+
+<div class="col-md-4 text-center">
+<div class="card"><div class="card-body">
+<img src="https://yt3.ggpht.com/a/AATXAJyzeSqo5daG_qdj2bw_PG8UZik6gtJtgVzCtA=s100-c-k-c0xffffffff-no-rj-mo" class="rounded-circle" style="width:10em;height:10em">
+<br></br>
+<h3>今天不跑新聞</h3>
+<br>
+<p>今天不跑新聞！<br>今天要幹嘛？</p>
+<br>
+<div class="btn btn-primary w-100"><a href="https://www.youtube.com/channel/UC0rmzPB4KHPWmoXekOvlfEA">現在就看看</a>
+</div></div></div></div>
+<br></br>
+</div>
+
+<div class="col-md-4 text-center">
+<div class="card"><div class="card-body">
+<img src="https://yt3.ggpht.com/a/AATXAJx32gQx-hNQwq3RTwxejsn-k5Bc3Mk8hCzGIw=s100-c-k-c0xffffffff-no-rj-mo" class="rounded-circle" style="width:10em;height:10em">
+<br></br>
+<h3>到底評什麼</h3>
+<br>
+<p>這個人很懶<br>
+什麼都沒留下...</p>
+<br>
+<div class="btn btn-primary w-100"><a href="https://www.youtube.com/channel/UCrn04Kx-RR60rT7MVVtCFUA">現在就看看</a>
+</div></div></div></div>
+<br></br>
+</div>
+
+<div class="col-md-4 text-center">
+<div class="card"><div class="card-body">
+<img src="https://yt3.ggpht.com/a/AATXAJys98hwmPGl4OCd7Gcxrm5v2iogsR4bp0-BKg=s100-c-k-c0xffffffff-no-rj-mo" class="rounded-circle" style="width:10em;height:10em">
+<br></br>
+<h3>欸你看了沒</h3>
+<br>
+<p>這個人很懶<br>
+什麼都沒留下...</p>
+<br>
+<div class="btn btn-primary w-100"><a href="https://www.youtube.com/channel/UCKyp4M8a9kqwRlssvJqLqdg">現在就看看</a>
+</div></div></div></div>
+
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
